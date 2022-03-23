@@ -15,6 +15,8 @@ export default {
 
 export const basic = () => <Spinner />;
 
+export const brand = () => <Spinner size="xl" color="brand.500" />;
+
 export const color = () => <Spinner color="red.500" />;
 
 export const size = () => (
