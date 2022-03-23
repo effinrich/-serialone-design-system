@@ -1,7 +1,7 @@
 {
   "name": "@backlight-dev/serial-one.ds",
   "version": "0.0.3",
-  "description": "A chakra-ui based design system as a starter kit for Backlight",
+  "description": "A chakra-ui based design system for Serial One",
   "license": "MIT",
   "type": "module",
   "scripts": {
