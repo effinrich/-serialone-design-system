@@ -1,5 +1,5 @@
 {
-  "name": "@backlight-dev/serial-one.ds",
+  "name": "@serial-one/ds",
   "version": "0.0.3",
   "description": "A chakra-ui based design system for Serial One",
   "license": "MIT",
@@ -15,6 +15,7 @@
     "autoprefixer": "^10.2.5",
     "prettier": "latest",
     "react": "^17.0.2",
+    "react-component-props-table": "^0.0.1",
     "react-dom": "^17.0.2",
     "react-simple-code-editor": "^0.10.0"
   },
@@ -40,12 +41,12 @@
     "framer-motion": "^4.1.11",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-simple-code-editor": "^0.10.0",
     "react-focus-lock": "^2.5.2",
     "react-hook-form": "^7.4.1",
     "react-icons": "^4.2.0",
     "react-lorem-component": "^0.13.0",
     "react-router-dom": "^5.2.0",
+    "react-simple-code-editor": "^0.10.0",
     "react-spinners": "^0.10.6"
   }
 }
