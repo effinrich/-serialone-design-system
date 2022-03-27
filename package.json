@@ -13,6 +13,7 @@
     "@emotion/react": "^11.1.5",
     "@emotion/styled": "^11.0.0",
     "autoprefixer": "^10.2.5",
+    "markdown-it": "^12.3.2",
     "prettier": "latest",
     "react": "^17.0.2",
     "react-component-props-table": "^0.0.1",
